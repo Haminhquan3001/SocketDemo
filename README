@@ -1,6 +1,7 @@
 #SOCKET DEMO
 
-This is a demo of socket in Java which is the interaction between server and client. I used Tomcat as part of the server. 
+This is a demo of socket in Java which is the interaction between server and client. I used Tomcat as part of the server.
+NOTE: This project is built based on previous requirements (Exception Folder, many drivers to test the code). You can ignore those.
 
 The program that support the interaction between server and client act as Kelly Blue Book (KBB). To be specific, the server will have
 the database is the list of cars information and client which is the user will have the options to upload, configure, an automobile or
